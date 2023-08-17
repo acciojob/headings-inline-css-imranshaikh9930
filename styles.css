@@ -1,20 +1,32 @@
 /*  your css code here. If applicable */
 h1{
 	color:#2a7ae2;
+	font-size:4.5rem;
+	font-family:Inter;
 	
 }
 h2{
 	color:#f44336;
+	font-size:3.8rem;
+	font-family:Inter;
 }
 h3{
 	color: #4caf50;
+	font-size:3.1rem;
+	font-family:Inter;
 }
 h4{
 	color:#ff9800;
+	font-size:2.5rem;
+	font-family:Inter;
 }
 h5{
 	color: #607d8b;
+	font-size:2rem;
+	font-family:Inter;
 }
 h6{
 	color:#ffeb3b;
+	font-size:1.5rem;
+	font-family:Inter;
 }
